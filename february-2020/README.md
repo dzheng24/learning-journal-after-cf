@@ -5,3 +5,6 @@
 
 - [2-2](./days/2-2.md)
   - plus-one problem
+
+- [2-3](./days/2-3.md)
+  - recursion whiteboard, python course
