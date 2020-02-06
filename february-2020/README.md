@@ -11,3 +11,6 @@
 
 - [2-4](./days/2-4.md)
   - michelle's talk on heaps
+
+- [2-5](./days/2-5.md)
+  - add binary
