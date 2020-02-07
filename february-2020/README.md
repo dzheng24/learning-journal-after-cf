@@ -14,3 +14,6 @@
 
 - [2-5](./days/2-5.md)
   - add binary
+
+- [2-6](./days/2-6.md)
+  - form components, controlled vs. uncontrolled
