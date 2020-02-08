@@ -17,3 +17,6 @@
 
 - [2-6](./days/2-6.md)
   - form components, controlled vs. uncontrolled
+
+- [2-7](./days/2-7.md)
+  - completed first two mini react projects
