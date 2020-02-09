@@ -20,3 +20,6 @@
 
 - [2-7](./days/2-7.md)
   - completed first two mini react projects
+
+- [2-8](./days/2-8.md)
+  - portfolio using template
