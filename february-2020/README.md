@@ -23,3 +23,6 @@
 
 - [2-8](./days/2-8.md)
   - portfolio using template
+
+- [2-9](./days/2-9.md) 
+  - meetup at KEXP, promises
