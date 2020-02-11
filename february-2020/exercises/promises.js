@@ -41,3 +41,14 @@ practicePromise().then((message) => {
 }).catch((error) => {
   console.log(error.name + ' ' + error.message)
 })
+
+// promise.all
+const promise1 = Promise.resolve('capitol hill');
+const promise2 = 24;
+const promise3 = new Promise((resolve, reject) => {
+  setTimeout(resolve, 5000, 'skateboarding')
+})
+
+Promise.all([promise1, promise2, promise3]).then(values => {
+  console.log(values)
+})

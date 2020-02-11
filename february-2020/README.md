@@ -26,3 +26,7 @@
 
 - [2-9](./days/2-9.md) 
   - meetup at KEXP, promises
+
+- [2-10](./days/2-10.md) 
+  - portfolio, promise.all
+  
