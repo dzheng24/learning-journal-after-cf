@@ -29,4 +29,9 @@
 
 - [2-10](./days/2-10.md) 
   - portfolio, promise.all
+
+- [2-11](./days/2-11.md) 
+  - mamp, wordpress, deployed portfolio
+  
+  
   
