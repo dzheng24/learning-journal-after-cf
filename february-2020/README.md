@@ -32,6 +32,9 @@
 
 - [2-11](./days/2-11.md) 
   - mamp, wordpress, deployed portfolio
+
+- [2-12](./days/2-12.md) 
+  - react, cloudformation meetup
   
   
   
