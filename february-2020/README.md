@@ -36,5 +36,7 @@
 - [2-12](./days/2-12.md) 
   - react, cloudformation meetup
   
+- [2-13](./days/2-13.md) 
+  - finished react tutorial, working with axios
   
   
