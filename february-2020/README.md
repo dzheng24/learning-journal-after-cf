@@ -42,4 +42,6 @@
 - [2-14](./days/2-14.md) 
   - review of forEach, map, and filter 
   
+- [2-15](./days/2-15.md) 
+  - review of map, sort, and reduce
   
