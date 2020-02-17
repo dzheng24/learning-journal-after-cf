@@ -45,3 +45,5 @@
 - [2-15](./days/2-15.md) 
   - review of map, sort, and reduce
   
+- [2-16](./days/2-16.md) 
+  - review hoisting, callstack
