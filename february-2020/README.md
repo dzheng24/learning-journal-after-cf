@@ -47,3 +47,6 @@
   
 - [2-16](./days/2-16.md) 
   - review hoisting, callstack
+
+- [2-17](./days/2-17.md) 
+  - map vs. set 
