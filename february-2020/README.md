@@ -50,3 +50,6 @@
 
 - [2-17](./days/2-17.md) 
   - map vs. set 
+
+- [2-18](./days/2-18.md) 
+  - more on map
