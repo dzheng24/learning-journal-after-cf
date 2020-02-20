@@ -53,3 +53,6 @@
 
 - [2-18](./days/2-18.md) 
   - more on map
+
+- [2-19](./days/2-19.md) 
+  - spread syntax, object destructuring
