@@ -56,3 +56,6 @@
 
 - [2-19](./days/2-19.md) 
   - spread syntax, object destructuring
+
+- [2-20](./days/2-20.md) 
+  - connect local branch to remote branch
