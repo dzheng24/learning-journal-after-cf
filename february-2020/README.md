@@ -59,3 +59,6 @@
 
 - [2-20](./days/2-20.md) 
   - connect local branch to remote branch
+
+- [2-21](./days/2-21.md) 
+  - practice on map
