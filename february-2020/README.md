@@ -62,3 +62,6 @@
 
 - [2-21](./days/2-21.md) 
   - practice on map
+
+- [2-22](./days/2-22.md) 
+  - more on set
