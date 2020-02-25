@@ -68,3 +68,6 @@
 
 - [2-23](./days/2-23.md) 
   - css grid source
+
+- [2-24](./days/2-24.md) 
+  - how to determine state / react reading
