@@ -71,3 +71,6 @@
 
 - [2-24](./days/2-24.md) 
   - how to determine state / react reading
+
+- [2-25](./days/2-25.md) 
+  - express / react reading
