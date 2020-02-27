@@ -74,3 +74,6 @@
 
 - [2-25](./days/2-25.md) 
   - express / react reading
+
+- [2-26](./days/2-26.md) 
+  - react props
