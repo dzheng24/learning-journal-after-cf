@@ -77,3 +77,6 @@
 
 - [2-26](./days/2-26.md) 
   - react props
+
+- [2-27](./days/2-27.md) 
+  - finished front-end of "my-blog" app
