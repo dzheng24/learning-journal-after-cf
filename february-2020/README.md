@@ -79,4 +79,7 @@
   - react props
 
 - [2-27](./days/2-27.md) 
-  - finished front-end of "my-blog" app
+  - finished front-end of "my-blog" 
+
+- [2-28](./days/2-28.md) 
+  - reduce
