@@ -83,3 +83,6 @@
 
 - [2-28](./days/2-28.md) 
   - reduce
+
+- [2-29](./days/2-29.md) 
+  - reduce in depth 
