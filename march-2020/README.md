@@ -5,3 +5,6 @@
 
 - [3-2](./days/3-2.md)
   - connect mongodb to express server
+
+- [3-3](./days/3-3.md)
+  - insertion sort
