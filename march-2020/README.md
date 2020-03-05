@@ -8,3 +8,6 @@
 
 - [3-3](./days/3-3.md)
   - insertion sort
+
+- [3-4](./days/3-4.md)
+  - merge sort 
