@@ -11,3 +11,6 @@
 
 - [3-4](./days/3-4.md)
   - merge sort 
+
+- [3-5](./days/3-5.md)
+  - useEffect hook 
