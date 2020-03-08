@@ -14,3 +14,6 @@
 
 - [3-5](./days/3-5.md)
   - useEffect hook 
+
+- [3-7](./days/3-7.md)
+  - JSON.stringify for post request
