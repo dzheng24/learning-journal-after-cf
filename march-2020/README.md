@@ -17,3 +17,6 @@
 
 - [3-7](./days/3-7.md)
   - JSON.stringify for post request
+
+- [3-8](./days/3-8.md)
+  - rewrote resume
