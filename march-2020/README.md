@@ -20,3 +20,6 @@
 
 - [3-8](./days/3-8.md)
   - rewrote resume
+
+- [3-9](./days/3-9.md)
+  - job hunt tips
