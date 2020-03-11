@@ -23,3 +23,6 @@
 
 - [3-9](./days/3-9.md)
   - job hunt tips
+
+- [3-10](./days/3-10.md)
+  - merge sort deep dive
