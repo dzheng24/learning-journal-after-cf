@@ -26,3 +26,6 @@
 
 - [3-10](./days/3-10.md)
   - merge sort deep dive
+
+- [3-11](./days/3-11.md)
+  - html and css review
