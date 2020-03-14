@@ -29,3 +29,6 @@
 
 - [3-11](./days/3-11.md)
   - html and css review
+
+- [3-13](./days/3-13.md)
+  - cpu, ram, storage
