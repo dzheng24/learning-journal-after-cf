@@ -32,3 +32,6 @@
 
 - [3-13](./days/3-13.md)
   - cpu, ram, storage
+
+- [3-14](./days/3-14.md)
+  - arrays
