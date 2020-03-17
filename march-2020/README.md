@@ -35,3 +35,9 @@
 
 - [3-14](./days/3-14.md)
   - arrays
+
+- [3-15](./days/3-15.md)
+  - finishing arrays; hashtables 
+
+- [3-16](./days/3-16.md)
+  - finishing hashtables; aws ec2 deployed
