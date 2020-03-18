@@ -41,3 +41,6 @@
 
 - [3-16](./days/3-16.md)
   - finishing hashtables; aws ec2 deployed
+
+- [3-17](./days/3-17.md)
+  - reviewing linked-list
