@@ -44,3 +44,6 @@
 
 - [3-17](./days/3-17.md)
   - reviewing linked-list
+
+- [3-18](./days/3-18.md)
+  - finishing linked-list
