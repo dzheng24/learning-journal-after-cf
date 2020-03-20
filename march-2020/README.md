@@ -47,3 +47,6 @@
 
 - [3-18](./days/3-18.md)
   - finishing linked-list
+
+- [3-19](./days/3-19.md)
+  - flexbox review
