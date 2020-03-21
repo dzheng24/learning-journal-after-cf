@@ -50,3 +50,6 @@
 
 - [3-19](./days/3-19.md)
   - flexbox review
+
+- [3-20](./days/3-20.md)
+  - grid review
