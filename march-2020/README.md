@@ -53,3 +53,6 @@
 
 - [3-20](./days/3-20.md)
   - grid review
+
+- [3-21](./days/3-21.md)
+  - what is javascript?
