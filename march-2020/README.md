@@ -56,3 +56,6 @@
 
 - [3-21](./days/3-21.md)
   - what is javascript?
+
+- [3-22](./days/3-22.md)
+  - floats
