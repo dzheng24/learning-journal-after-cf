@@ -59,3 +59,6 @@
 
 - [3-22](./days/3-22.md)
   - floats
+
+- [3-23](./days/3-23.md)
+  - stacks and queues
