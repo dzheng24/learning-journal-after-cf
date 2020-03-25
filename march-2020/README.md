@@ -62,3 +62,6 @@
 
 - [3-23](./days/3-23.md)
   - stacks and queues
+
+- [3-24](./days/3-24.md)
+  - trees
