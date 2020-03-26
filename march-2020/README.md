@@ -65,3 +65,6 @@
 
 - [3-24](./days/3-24.md)
   - trees
+
+- [3-25](./days/3-25.md)
+  - binary heaps, trie
