@@ -71,3 +71,6 @@
 
 - [3-26](./days/3-26.md)
   - 1st interview, graphs
+
+- [3-27](./days/3-27.md)
+  - positive thinking 
