@@ -74,3 +74,6 @@
 
 - [3-27](./days/3-27.md)
   - positive thinking 
+
+- [3-28](./days/3-28.md)
+  - finishing graphs, practice express
