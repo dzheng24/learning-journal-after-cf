@@ -77,3 +77,6 @@
 
 - [3-28](./days/3-28.md)
   - finishing graphs, practice express
+
+- [3-29](./days/3-29.md)
+  - CRUD, recursion
