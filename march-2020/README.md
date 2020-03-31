@@ -80,3 +80,6 @@
 
 - [3-29](./days/3-29.md)
   - CRUD, recursion
+
+- [3-30](./days/3-30.md)
+  - recursion vs. loops
