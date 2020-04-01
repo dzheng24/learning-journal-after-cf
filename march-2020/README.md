@@ -83,3 +83,6 @@
 
 - [3-30](./days/3-30.md)
   - recursion vs. loops
+
+- [3-31](./days/3-31.md)
+  - more recursion
