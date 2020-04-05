@@ -8,3 +8,6 @@
 
 - [4-3](./days/4-3.md)
   - behavioral interview practice 
+
+- [4-4](./days/4-4.md)
+  - behavioral interview practice 
