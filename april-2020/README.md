@@ -11,3 +11,6 @@
 
 - [4-4](./days/4-4.md)
   - behavioral interview practice 
+
+- [4-8](./days/4-8.md)
+  - the day after the interview 
