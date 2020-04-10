@@ -62,4 +62,26 @@ const listFoods = (recipe) => {
 };
 
 
-console.log(listFoods(gruffaloCrumble));
+// console.log(listFoods(gruffaloCrumble));
+
+/* ------------------------------------------------------------------------------------------------
+CHALLENGE 5
+
+Use the same recipe from Challenge 3, above.
+
+Write a function named stepAction that takes in the recipe and extracts the action verbs from the steps. Fortunate for you, the action verbs are the first word of each action.
+
+Return a new array containing just the verbs. For example, ['Mix until evenly distributed'] returns ['Mix'].
+------------------------------------------------------------------------------------------------ */
+
+const stepActions = (recipe) => {
+  let result = [];
+  // Solution code here...
+  recipe.steps.forEach(step => {
+    let splitted = step.split(' ');
+    result.push(splitted[0])
+  })
+  console.log(result);
+};
+
+stepActions(gruffaloCrumble);
