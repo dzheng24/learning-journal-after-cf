@@ -14,3 +14,6 @@
 
 - [4-8](./days/4-8.md)
   - the day after the interview 
+
+- [4-9](./days/4-9.md)
+  - review regex, elementary sorts
