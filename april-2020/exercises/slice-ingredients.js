@@ -81,7 +81,7 @@ const stepActions = (recipe) => {
     let splitted = step.split(' ');
     result.push(splitted[0])
   })
-  console.log(result);
+  return result;
 };
 
 stepActions(gruffaloCrumble);

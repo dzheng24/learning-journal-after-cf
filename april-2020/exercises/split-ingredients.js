@@ -50,6 +50,31 @@ const splitFoods = (recipe) => {
   return result;
 };
 
-console.log(splitFoods(gruffaloCrumble));
+// console.log(splitFoods(gruffaloCrumble));
 
+/* ------------------------------------------------------------------------------------------------
+CHALLENGE 6
 
+Write a function named removeEvenValues that, given an array of integers as input, deletes all even values from the array, leaving no 'gaps' behind.
+
+The array should be modified in-place.
+
+For example:
+  const integers = [1, 2, 3, 4, 5, 6];
+  removeEvenValues(integers);
+  console.log(integers) will print [1, 3, 5]
+------------------------------------------------------------------------------------------------ */
+
+const removeEvenValues = (arr) => {
+  // Solution code here...
+  for (let i = 0; i < arr.length; i++) {
+    console.log('value is', arr[i], 'index is', i);
+    if (arr[i] % 2 === 0) {
+      arr.splice(i, 1);
+      i--;
+    }
+  }
+  return arr;
+};
+
+console.log(removeEvenValues([6, 3, 19, 43, 12, 66, 43]));
