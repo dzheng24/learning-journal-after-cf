@@ -17,3 +17,6 @@
 
 - [4-9](./days/4-9.md)
   - review regex, elementary sorts
+
+- [4-10](./days/4-10.md)
+  - slice, join, split, splice
