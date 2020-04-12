@@ -20,3 +20,6 @@
 
 - [4-10](./days/4-10.md)
   - slice, join, split, splice
+
+- [4-11](./days/4-11.md)
+  - stretch goals, and object iteration
