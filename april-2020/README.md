@@ -23,3 +23,6 @@
 
 - [4-11](./days/4-11.md)
   - stretch goals, and object iteration
+
+- [4-12](./days/4-12.md)
+  - stuck on testing
