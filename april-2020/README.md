@@ -29,3 +29,6 @@
 
 - [4-13](./days/4-13.md)
   - mvc, map, filter, ajax
+
+- [4-14](./days/4-14.md)
+  - filter, reduce
