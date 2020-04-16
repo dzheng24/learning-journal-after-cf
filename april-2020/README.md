@@ -1,7 +1,7 @@
 # April 2020
 
 - [4-1](./days/4-1.md)
-  - forEach vs. map
+  - forEach vs. map, helpful terminal command
 
 - [4-2](./days/4-2.md)
   - behavioral interview practice 
@@ -32,3 +32,6 @@
 
 - [4-14](./days/4-14.md)
   - filter, reduce
+
+- [4-15](./days/4-15.md)
+  - which sort is the best?
