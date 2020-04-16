@@ -205,4 +205,86 @@ const countPrimeNumbers = (arr) => {
   }, 0)
   return answer;
 };
-console.log(countPrimeNumbers([1, 2, 13, 64, 45, 56, 17, 8]))
+
+/* ------------------------------------------------------------------------------------------------
+CHALLENGE 7 - Stretch Goal
+
+Write a function named extractState that, given the snorlaxData, below, uses reduce to return the object whose 'name' property matches the given string.
+
+If the input array does not have a stat with that specific name, the function should return null.
+------------------------------------------------------------------------------------------------ */
+
+const snorlaxData = {
+  stats: [
+    {
+      stat: {
+        url: 'https://pokeapi.co/api/v2/stat/6/',
+        name: 'speed',
+      },
+      effort: 5,
+      baseStat: 30,
+    },
+    {
+      stat: {
+        url: 'https://pokeapi.co/api/v2/stat/5/',
+        name: 'special-defense',
+      },
+      effort: 2,
+      baseStat: 110,
+    },
+    {
+      stat: {
+        url: 'https://pokeapi.co/api/v2/stat/4/',
+        name: 'special-attack',
+      },
+      effort: 9,
+      baseStat: 65,
+    },
+  ],
+  name: 'snorlax',
+  weight: 4600,
+};
+
+const extractStat = (statName, arr) => {
+  // Solution code here...
+  let result = arr.reduce((total, current) => {
+    if (current.stat.name === statName) {
+      total += current;
+    }
+    return total;
+  })
+  return result;
+};
+
+/* ------------------------------------------------------------------------------------------------
+CHALLENGE 8 - Stretch Goal
+
+Write a function named extractChildren that, given the array of characters from challenge 4, accomplishes the following:
+
+1) Uses filter to return an array of the characters that contain the letter 'a' in their name
+
+2) Then, uses reduce to return an array of all the children's names in the filtered array
+------------------------------------------------------------------------------------------------ */
+
+const extractChildren = (arr) => {
+  // Solution code here...
+  let allNames = [];
+  arr.forEach(x => {
+    if (x.name) {
+      allNames.push(x.name);
+    }
+    if (x.spouse) {
+      allNames.push(x.spouse);
+    }
+    if (x.children) {
+      let copy = x.children.slice(0);
+      while (copy.length) {
+        allNames.push(copy.shift())
+      }
+    }
+  })
+  let namesWithA = allNames.filter(x => x.includes('a'));
+  
+};
+
+extractChildren(characters);
