@@ -44,3 +44,6 @@
 
 - [4-20](./days/4-20.md)
   - java first day
+
+- [4-22](./days/4-22.md)
+  - nested for loops 
