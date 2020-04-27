@@ -50,3 +50,9 @@
 
 - [4-24](./days/4-24.md)
   - moving day, more two dimension arrays
+
+- [4-25](./days/4-25.md)
+  - IDE
+
+- [4-26](./days/4-26.md)
+  - nested for loops 
