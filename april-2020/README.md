@@ -56,3 +56,6 @@
 
 - [4-26](./days/4-26.md)
   - nested for loops 
+
+- [4-27](./days/4-27.md)
+  - java data types
