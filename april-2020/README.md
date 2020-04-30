@@ -59,3 +59,6 @@
 
 - [4-27](./days/4-27.md)
   - java data types
+
+- [4-28](./days/4-28.md)
+  - more java data types
