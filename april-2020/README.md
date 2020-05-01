@@ -62,3 +62,6 @@
 
 - [4-28](./days/4-28.md)
   - more java data types
+
+- [4-30](./days/4-30.md)
+  - java textbook
