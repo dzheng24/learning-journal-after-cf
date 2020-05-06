@@ -11,3 +11,6 @@
 
 - [5-4](./days/5-4.md)
   - java pool puzzle 
+
+- [5-5](./days/5-5.md)
+  - chapter 2 
