@@ -17,3 +17,6 @@
 
 - [5-9](./days/5-9.md)
   - puzzle (Echo)
+
+- [5-10](./days/5-10.md)
+  - puzzle (Echo) 2 and chapter 3
