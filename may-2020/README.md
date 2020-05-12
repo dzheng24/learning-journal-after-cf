@@ -20,3 +20,6 @@
 
 - [5-10](./days/5-10.md)
   - puzzle (Echo) 2 and chapter 3
+
+- [5-11](./days/5-11.md)
+  - chapter 3 reading 
