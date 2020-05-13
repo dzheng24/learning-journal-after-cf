@@ -23,3 +23,6 @@
 
 - [5-11](./days/5-11.md)
   - chapter 3 reading 
+
+- [5-12](./days/5-12.md)
+  - chapter 3 reading 
