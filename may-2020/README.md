@@ -32,3 +32,6 @@
 
 - [5-14](./days/5-14.md)
   - chapter 3 reading 
+
+- [5-15](./days/5-15.md)
+  - chapter 3 exercises 
