@@ -41,3 +41,6 @@
 
 - [5-17](./days/5-17.md)
   - chapter 4 reading
+
+- [5-18](./days/5-18.md)
+  - chapter 4 reading (encapsulation)
