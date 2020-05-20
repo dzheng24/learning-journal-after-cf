@@ -44,3 +44,6 @@
 
 - [5-18](./days/5-18.md)
   - chapter 4 reading (encapsulation)
+
+- [5-19](./days/5-19.md)
+  - prepping for first day of class
