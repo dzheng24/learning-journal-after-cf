@@ -47,3 +47,6 @@
 
 - [5-19](./days/5-19.md)
   - prepping for first day of class
+
+- [5-20](./days/5-20.md)
+  - first day of class 
