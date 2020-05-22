@@ -50,3 +50,6 @@
 
 - [5-20](./days/5-20.md)
   - first day of class 
+
+- [5-21](./days/5-21.md)
+  - classes and objects in detail 
