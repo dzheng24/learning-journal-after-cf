@@ -53,3 +53,9 @@
 
 - [5-21](./days/5-21.md)
   - classes and objects in detail 
+
+- [5-22](./days/5-22.md)
+  - friday class notes 
+
+- [5-23](./days/5-23.md)
+  - back to head first java chapter 4
