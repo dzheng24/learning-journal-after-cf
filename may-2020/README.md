@@ -59,3 +59,6 @@
 
 - [5-23](./days/5-23.md)
   - back to head first java chapter 4
+
+- [5-24](./days/5-24.md)
+  - static members (finish reading session 3)
