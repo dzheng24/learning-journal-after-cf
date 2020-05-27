@@ -62,3 +62,9 @@
 
 - [5-24](./days/5-24.md)
   - static members (finish reading session 3)
+
+- [5-25](./days/5-25.md)
+  - session 4: flow of control 
+
+- [5-26](./days/5-26.md)
+  - session 5 & 6: enums, wrappers, strings, and more...
