@@ -68,3 +68,6 @@
 
 - [5-26](./days/5-26.md)
   - session 5 & 6: enums, wrappers, strings, and more...
+
+- [5-27](./days/5-27.md)
+  - preview packages and modules 
