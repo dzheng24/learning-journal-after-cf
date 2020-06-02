@@ -77,3 +77,9 @@
 
 - [5-29](./days/5-29.md)
   - polymorphism and abstract classes 
+
+- [5-30](./days/5-30.md)
+  - head first java chapter 5, SimpleDotCom game 
+
+- [5-31](./days/5-31.md)
+  - finishing chapter 5 
