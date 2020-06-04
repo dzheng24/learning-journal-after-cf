@@ -5,3 +5,6 @@
 
 - [6-2](./days/6-2.md)
   - session 9 review
+
+- [6-3](./days/6-3.md)
+  - session 10 review
