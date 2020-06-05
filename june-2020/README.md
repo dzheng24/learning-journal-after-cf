@@ -8,3 +8,6 @@
 
 - [6-3](./days/6-3.md)
   - session 10 review
+
+- [6-4](./days/6-4.md)
+  - tutor session
