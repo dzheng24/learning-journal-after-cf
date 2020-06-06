@@ -11,3 +11,6 @@
 
 - [6-4](./days/6-4.md)
   - tutor session
+  
+- [6-5](./days/6-5.md)
+  - session 13 review 
