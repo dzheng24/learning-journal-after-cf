@@ -14,3 +14,6 @@
   
 - [6-5](./days/6-5.md)
   - session 13 review 
+
+- [6-6](./days/6-6.md)
+  - exceptions
