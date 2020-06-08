@@ -17,3 +17,6 @@
 
 - [6-6](./days/6-6.md)
   - exceptions
+
+- [6-7](./days/6-7.md)
+  - head first java chapter 6, arraylists vs. array
