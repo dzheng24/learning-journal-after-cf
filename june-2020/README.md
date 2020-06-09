@@ -20,3 +20,6 @@
 
 - [6-7](./days/6-7.md)
   - head first java chapter 6, arraylists vs. array
+
+- [6-8](./days/6-8.md)
+  - comparable vs comparator
