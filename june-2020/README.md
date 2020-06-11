@@ -26,3 +26,6 @@
 
 - [6-9](./days/6-9.md)
   - last day of review part 1 
+
+- [6-10](./days/6-10.md)
+  - getting started with JUnit 
