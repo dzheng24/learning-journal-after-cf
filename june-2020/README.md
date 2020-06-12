@@ -29,3 +29,6 @@
 
 - [6-10](./days/6-10.md)
   - getting started with JUnit 
+
+- [6-11](./days/6-11.md)
+  - testing review questions 
