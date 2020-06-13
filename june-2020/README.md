@@ -32,3 +32,6 @@
 
 - [6-11](./days/6-11.md)
   - testing review questions 
+
+- [6-12](./days/6-12.md)
+  - generics
