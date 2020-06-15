@@ -35,3 +35,9 @@
 
 - [6-12](./days/6-12.md)
   - generics
+
+- [6-13](./days/6-13.md)
+  - weekend review 
+
+- [6-14](./days/6-14.md)
+  - weekend review 
