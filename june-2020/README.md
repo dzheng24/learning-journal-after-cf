@@ -41,3 +41,6 @@
 
 - [6-14](./days/6-14.md)
   - weekend review 
+
+- [6-15](./days/6-15.md)
+  - getting into strategy pattern, composition of inheritance 
