@@ -44,3 +44,6 @@
 
 - [6-15](./days/6-15.md)
   - getting into strategy pattern, composition of inheritance 
+
+- [6-16](./days/6-16.md)
+  - inner classes, annotations 
