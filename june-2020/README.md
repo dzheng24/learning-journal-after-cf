@@ -47,3 +47,6 @@
 
 - [6-16](./days/6-16.md)
   - inner classes, annotations 
+
+- [6-17](./days/6-17.md)
+  - lambda, streams 
