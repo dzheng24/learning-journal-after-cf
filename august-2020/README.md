@@ -13,4 +13,8 @@
   - Lambda and API Gateway, Linux
 
 - [8-6](./days/8-6.md)
+
   - ArrayLists practice, reading on Maps
+
+- [8-9](./days/8-9.md)
+  - more maps practice
