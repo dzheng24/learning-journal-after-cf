@@ -17,4 +17,8 @@
   - ArrayLists practice, reading on Maps
 
 - [8-9](./days/8-9.md)
+
   - more maps practice
+
+- [8-10](./days/8-10.md)
+  - scripting vs. programming, conditional breakpoint
