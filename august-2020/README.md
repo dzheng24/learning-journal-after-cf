@@ -21,4 +21,9 @@
   - more maps practice
 
 - [8-10](./days/8-10.md)
+
   - scripting vs. programming, conditional breakpoint
+
+- [8-12](./days/8-12.md)
+
+  - word pattern problem
