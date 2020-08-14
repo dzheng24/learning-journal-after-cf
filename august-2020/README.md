@@ -27,3 +27,7 @@
 - [8-12](./days/8-12.md)
 
   - word pattern problem
+
+- [8-13](./days/8-13.md)
+
+  - Iterator & ConcurrentModificationException
