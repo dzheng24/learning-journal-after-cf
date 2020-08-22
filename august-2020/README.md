@@ -35,3 +35,7 @@
 - [8-15](./days/8-15.md)
 
   - stutter problem
+
+- [8-21](./days/8-21.md)
+
+  - review java basics
