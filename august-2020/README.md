@@ -39,3 +39,11 @@
 - [8-21](./days/8-21.md)
 
   - review java basics
+
+- [8-22](./days/8-22.md)
+
+  - review java basics
+
+- [8-23](./days/8-23.md)
+
+  - convert map's keys to arrayLists
